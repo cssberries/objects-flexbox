@@ -1,0 +1,21 @@
+{
+  "name": "objects-flexbox",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cssberries/objects-flexbox",
+  "authors": [
+    "Yevgeniy Belov"
+  ],
+  "description": "Set of flexbox related objects",
+  "main": "main.less",
+  "keywords": [
+    "css",
+    "oocss",
+    "itcss",
+    "bem",
+    "flexbox"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "tools-flexbox": "cssberries-tools-flexbox#latest"
+  }
+}
